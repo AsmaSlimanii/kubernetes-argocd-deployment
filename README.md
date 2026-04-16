@@ -36,3 +36,5 @@ minikube service flask-app-service
 Asma Slimani — Junior DevOps Engineer
 LinkedIn : https://www.linkedin.com/in/asma-slimani-4a732a296/
 GitHub   : https://github.com/AsmaSlimanii
+## ArgoCD Dashboard
+![ArgoCD Dashboard](argocd-dashboard.png)
